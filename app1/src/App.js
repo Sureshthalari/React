@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      <h1>TomCambdy</h1>
      <image src="images\12677.jpg" />
+     <h1>hii</h1>
      <h2>suresh</h2>
     </div>
   );
