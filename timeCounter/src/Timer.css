@@ -1,0 +1,51 @@
+.app {
+    text-align: center;
+  }
+  
+  .counter-heading {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .timer-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .timer-wrapper {
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .timer {
+    text-align: center;
+  }
+  
+  .timer-display {
+    font-size: 3rem;
+  }
+  
+  .timer-controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .timer-controls button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .timer-controls button:hover {
+    background-color: #0056b3;
+  }
+  
+  .timer-message {
+    font-size: 1rem;
+  }
